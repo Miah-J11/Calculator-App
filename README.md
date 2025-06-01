@@ -22,6 +22,14 @@ A basic calculator GUI application built with Python and Tkinter. It supports ad
    python calculator.py
 5. The calculator window will open. Use the buttons to enter expressions and calculate results.
 
+## Running the standalone executable [No need to clone repo]
+If you have the standalone executable created using PyInstaller (Calculator.exe):
+Locatation: \dist\Calculator.exe
+
+1. Download or copy the Calculator.exe file to your computer.
+2. Double-click the executable to launch the calculator app.
+3. Use the buttons to enter expressions and calculate results.
+
 ## How It Works
 
 - The app uses the `eval()` function to compute the result from the entered expression, replacing `^` with `**` for exponentiation.
