@@ -26,7 +26,7 @@ A basic calculator GUI application built with Python and Tkinter. It supports ad
 If you have the standalone executable created using PyInstaller (Calculator.exe):
 Locatation:   
       
-      \dist\Calculator.exe
+    \dist\Calculator.exe
 
 1. Download or copy the Calculator.exe file to your computer.
 2. Double-click the executable to launch the calculator app.
